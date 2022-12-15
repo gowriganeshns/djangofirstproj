@@ -29,7 +29,6 @@ ALLOWED_HOSTS = [
     'demo2.student.saveetha.in'
 ]
 
-
 # Application definition
 
 INSTALLED_APPS = [
